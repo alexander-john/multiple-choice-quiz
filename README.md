@@ -21,7 +21,7 @@ This is a simple multiple-choice quiz application built with HTML, CSS, and Java
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [url]
+   git clone https://github.com/alexander-john/multiple-choice-quiz.git
    ```
 
 2. Navigate to the project directory:
